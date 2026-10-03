@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/check",
+      "destination": "https://boksd.vercel.app/api"
+    }
+  ]
+}
